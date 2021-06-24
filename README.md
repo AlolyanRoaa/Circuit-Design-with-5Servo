@@ -27,7 +27,7 @@ when the power is off:
 ![off](https://github.com/AlolyanRoaa/Circuit-Design-with-5Servo/blob/main/off.PNG)
 
 
-when switching the power ON, the servos will position at 90 degrees. which is the initial position.
+when switching the power ON, the servos will position at 90 degrees after 1s. which is the initial position.
 
 initial position:
 
